@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
-/*#include <cmath>
-#include <cstdlib>*/
-#include <ctime> 
-using namespace std;
+#include <cmath>
 
 int main() {
     float metre_values;
